@@ -1,5 +1,10 @@
+
 # Employee Attrition & Salary Prediction System README
 The project is aimed at forecasting employee turnover and estimating the financial consequences of employee turnover through the use of machine learning. This is aimed at assisting the organizations to identify high-risk employees proactively and quantify the possible loss of money due to attrition.
+
+##DATASET LINK: https://www.kaggle.com/datasets/patelprashant/employee-attrition
+
+
 ##  Project Overview
 The phenomenon of employee attrition is a burning issue that organizations have to contend with because it causes higher expenses in hiring, wastage of productivity, and knowledge base.  
 The models used in this project using machine learning include:
@@ -55,12 +60,4 @@ Pandas
 NumPy
 Scikit-learn
 Jupyter Notebook
-
-
-
-
-
-
-
-
 
